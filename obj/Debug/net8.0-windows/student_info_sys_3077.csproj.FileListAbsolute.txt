@@ -1,0 +1,16 @@
+C:\Users\brand\dev\student_info_sys_3077\bin\Debug\net8.0-windows\student_info_sys_3077.exe
+C:\Users\brand\dev\student_info_sys_3077\bin\Debug\net8.0-windows\student_info_sys_3077.deps.json
+C:\Users\brand\dev\student_info_sys_3077\bin\Debug\net8.0-windows\student_info_sys_3077.runtimeconfig.json
+C:\Users\brand\dev\student_info_sys_3077\bin\Debug\net8.0-windows\student_info_sys_3077.dll
+C:\Users\brand\dev\student_info_sys_3077\bin\Debug\net8.0-windows\student_info_sys_3077.pdb
+C:\Users\brand\dev\student_info_sys_3077\obj\Debug\net8.0-windows\student_info_sys_3077.Form1.resources
+C:\Users\brand\dev\student_info_sys_3077\obj\Debug\net8.0-windows\student_info_sys_3077.csproj.GenerateResource.cache
+C:\Users\brand\dev\student_info_sys_3077\obj\Debug\net8.0-windows\student_info_sys_3077.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brand\dev\student_info_sys_3077\obj\Debug\net8.0-windows\student_info_sys_3077.AssemblyInfoInputs.cache
+C:\Users\brand\dev\student_info_sys_3077\obj\Debug\net8.0-windows\student_info_sys_3077.AssemblyInfo.cs
+C:\Users\brand\dev\student_info_sys_3077\obj\Debug\net8.0-windows\student_info_sys_3077.csproj.CoreCompileInputs.cache
+C:\Users\brand\dev\student_info_sys_3077\obj\Debug\net8.0-windows\student_info_sys_3077.dll
+C:\Users\brand\dev\student_info_sys_3077\obj\Debug\net8.0-windows\refint\student_info_sys_3077.dll
+C:\Users\brand\dev\student_info_sys_3077\obj\Debug\net8.0-windows\student_info_sys_3077.pdb
+C:\Users\brand\dev\student_info_sys_3077\obj\Debug\net8.0-windows\student_info_sys_3077.genruntimeconfig.cache
+C:\Users\brand\dev\student_info_sys_3077\obj\Debug\net8.0-windows\ref\student_info_sys_3077.dll

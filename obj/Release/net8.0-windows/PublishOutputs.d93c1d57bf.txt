@@ -1,0 +1,5 @@
+C:\Users\brand\dev\student_info_sys_3077\bin\Release\net8.0-windows\publish\student_info_sys_3077.exe
+C:\Users\brand\dev\student_info_sys_3077\bin\Release\net8.0-windows\publish\student_info_sys_3077.dll
+C:\Users\brand\dev\student_info_sys_3077\bin\Release\net8.0-windows\publish\student_info_sys_3077.deps.json
+C:\Users\brand\dev\student_info_sys_3077\bin\Release\net8.0-windows\publish\student_info_sys_3077.runtimeconfig.json
+C:\Users\brand\dev\student_info_sys_3077\bin\Release\net8.0-windows\publish\student_info_sys_3077.pdb
